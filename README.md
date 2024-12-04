@@ -1,27 +1,55 @@
-# Portfolio
+Here’s a professional yet approachable README template for your portfolio project on GitHub:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
+---
 
-## Development server
+# GB Digital Portfolio 🌐
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Welcome to the repository for **GB Digital**, my personal portfolio website! 🎉
 
-## Code scaffolding
+## About the Project
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+This project is a **work-in-progress** Angular-based portfolio website where I aim to showcase my professional journey, projects, and skills. The final site will serve as a central hub for anyone interested in learning more about me and my work.
 
-## Build
+### Features (Planned)
+- **Home Page**: A quick introduction and links to my key sections.
+- **Portfolio**: A showcase of my projects, highlighting technologies and impact.
+- **Contact**: A way to get in touch with me.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Current Status
+I am actively building this project, so the repository may change frequently as I add new features, refine designs, and improve functionality.
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## How to View the Project
+As this project is still under development, the live site is not yet available. However, you can:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/gb-digital.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd gb-digital
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Run the Angular development server:
+   ```bash
+   ng serve
+   ```
+5. Open your browser and visit `http://localhost:4200/`.
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Roadmap
+Here's a high-level roadmap for the project:
+1. Set up Angular project structure and navigation.
+2. Design and implement the **Home**, **Portfolio**, and **Contact** pages.
+3. Add responsive styling for various devices.
+4. Deploy the site using a hosting service (e.g., GitHub Pages, Netlify).
 
-## Further help
+---
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## Contributing
+This is a personal project, but feedback and suggestions are always welcome! Feel free to open an issue or submit a pull request if you have ideas to improve the site.
