@@ -1,7 +1,3 @@
-Here’s a professional yet approachable README template for your portfolio project on GitHub:
-
----
-
 # GB Digital Portfolio 🌐
 
 Welcome to the repository for **GB Digital**, my personal portfolio website! 🎉
